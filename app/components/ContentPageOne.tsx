@@ -2,8 +2,8 @@ import React from "react";
 
 const ContentPageOne = () => {
   return (
-    <div className=" flex items-center justify-center bg-blue-950 text-white w-full h-svh text-4xl font-black">
-      <div className="flex items-center gap-3">
+    <div className=" flex items-center justify-center bg-blue-950 text-white w-full h-screen text-4xl ">
+      <div className="flex items-center gap-6">
         <div>scroll down baby</div>
         <div>
           <svg
